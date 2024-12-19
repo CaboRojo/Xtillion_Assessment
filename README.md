@@ -4,7 +4,7 @@
 #### The company recognizes that ealry intervention and tailored support can significantly improve their patients well being while decreasing associated healthcare costs. 
 #### One of its wellness porgrams focuses on identifying and supporitng patients at risk of developing chrnoic conditions. 
 #### The HealthGuard team collected a comprehensive set of data that includes patient's attributes such as demographics, and health behaviors to predict which patients 
-#### ##are more likely to be diagnosed with a chronic condition. 
+#### are more likely to be diagnosed with a chronic condition. 
 
 ## My Role
 #### As a data scientist my goal was to build a predict model that can accurately classify members into the following categories: 
